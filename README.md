@@ -1,3 +1,30 @@
+## X-Decor-libre ##
+
+This is a libre version of the X-Decor mod for Minetest.
+It is the same as X-Decor, except with non-free files replaced.
+
+## List of replaced files
+
+* `xdecor_candle_hanging.png`
+* `xdecor_radio_back.png`
+* `xdecor_radio_front.png`
+* `xdecor_radio_side.png`
+* `xdecor_radio_top.png`
+* `xdecor_rooster.png`
+* `xdecor_speaker_back.png`
+* `xdecor_speaker_front.png`
+* `xdecor_speaker_side.png`
+* `xdecor_speaker_top.png`
+* `xdecor_enchanting.ogg` (removed file)
+
+(see `LICENSE` file for licensing).
+
+---
+
+The original readme text follows:
+
+---
+
 ## X-Decor ##
 
 [![ContentDB](https://content.minetest.net/packages/jp/xdecor/shields/downloads/)](https://content.minetest.net/packages/jp/xdecor/)
