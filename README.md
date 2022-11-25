@@ -5,17 +5,21 @@ It is the same as X-Decor, except with non-free files replaced.
 
 ## List of replaced files
 
-* `xdecor_candle_hanging.png`
-* `xdecor_radio_back.png`
-* `xdecor_radio_front.png`
-* `xdecor_radio_side.png`
-* `xdecor_radio_top.png`
-* `xdecor_rooster.png`
-* `xdecor_speaker_back.png`
-* `xdecor_speaker_front.png`
-* `xdecor_speaker_side.png`
-* `xdecor_speaker_top.png`
-* `xdecor_enchanting.ogg`
+This is the list of non-free files in the original X-Decor mod
+(as of commit 8b614b3513f2719d5975c883180c011cb7428c8d)
+that XDecor-libre replaced:
+
+* `textures/xdecor_candle_hanging.png`
+* `textures/xdecor_radio_back.png`
+* `textures/xdecor_radio_front.png`
+* `textures/xdecor_radio_side.png`
+* `textures/xdecor_radio_top.png`
+* `textures/xdecor_rooster.png`
+* `textures/xdecor_speaker_back.png`
+* `textures/xdecor_speaker_front.png`
+* `textures/xdecor_speaker_side.png`
+* `textures/xdecor_speaker_top.png`
+* `sounds/xdecor_enchanting.ogg`
 
 (see `LICENSE` file for licensing).
 
