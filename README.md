@@ -15,7 +15,7 @@ It is the same as X-Decor, except with non-free files replaced.
 * `xdecor_speaker_front.png`
 * `xdecor_speaker_side.png`
 * `xdecor_speaker_top.png`
-* `xdecor_enchanting.ogg` (removed file)
+* `xdecor_enchanting.ogg`
 
 (see `LICENSE` file for licensing).
 
