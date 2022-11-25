@@ -1,13 +1,23 @@
 ## X-Decor-libre ##
 
-This is a libre version of the X-Decor mod for Minetest.
-It is the same as X-Decor, except with non-free files replaced.
+This is a libre version (free software, free media) of the X-Decor mod for Minetest.
+It is the same as X-Decor, except with all the non-free files replaced.
 
-## List of replaced files
+### Background
+
+X-Decor is a popular mod in Minetest but it is (as the time of writing this text)
+non-free software, there are various files under proprietary licenses.
+
+The purpose of this repository is to provide the community a fully-free fork of
+X-Decor with clearly documented licenses.
+
+No other changes (e.g. bugfixes, features, etc.) will be made in X-Decor-libre.
+
+### List of replaced files
 
 This is the list of non-free files in the original X-Decor mod
 (as of commit 8b614b3513f2719d5975c883180c011cb7428c8d)
-that XDecor-libre replaced:
+that XDecor-libre replaces:
 
 * `textures/xdecor_candle_hanging.png`
 * `textures/xdecor_radio_back.png`
