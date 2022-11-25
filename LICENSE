@@ -1,7 +1,7 @@
 ┌──────────────────────────────────────────────────────────────────────┐
 │   Copyright (c) 2015-2021 kilbith <jeanpatrick.guerrero@gmail.com>   │
 │                                                                      │
-│   Code: BSD                                                          │
+│   Code: Modified BSD License                                         │
 │   Textures: WTFPL (credits: Gambit, kilbith, Cisoun)                 │
 │                                                                      │
 │   Textures (radio and speaker) by                                    │
@@ -14,7 +14,7 @@
 │        sirrobzeroone (CC0)                                           │
 │                                                                      │
 │   Sounds:                                                            │
-│     - xdecor_boiling_water.ogg - by Audionautics - CC BY-SA          │
+│     - xdecor_boiling_water.ogg - by Audionautics - CC BY 3.0         │
 │          freesound.org/people/Audionautics/sounds/133901/            │
 │     - xdecor_bouncy.ogg - by Blender Foundation - CC BY 3.0          │
 │          opengameart.org/content/funny-comic-cartoon-bounce-sound    │
@@ -22,6 +22,7 @@
 │          freesound.org/people/Kostas17/sounds/542825/                │
 └──────────────────────────────────────────────────────────────────────┘
 
+-- Modified BSD License --
 
 Copyright (c) 1998, Regents of the University of California
 All rights reserved.
@@ -47,3 +48,11 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+-- End of Modified BSD License --
+
+## References for other licenses:
+
+* CC BY 3.0: http://creativecommons.org/licenses/by/3.0/
+* CC BY 4.0: http://creativecommons.org/licenses/by/4.0/
+* CC0: https://creativecommons.org/publicdomain/zero/1.0/
