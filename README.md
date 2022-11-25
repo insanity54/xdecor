@@ -1,4 +1,4 @@
-## X-Decor-libre ##
+## X-Decor-libre [`xdecor`] ##
 
 This is a libre version (free software, free media) of the X-Decor mod for Minetest.
 It is the same as X-Decor, except with all the non-free files replaced.
@@ -32,6 +32,13 @@ that X-Decor-libre replaces:
 * `sounds/xdecor_enchanting.ogg`
 
 (see `LICENSE` file for licensing).
+
+### Technical information
+X-Decor-libre is a fork of X-Decor, from <https://github.com/minetest-mods/xdecor>,
+forked at Git commit ID 8b614b3513f2719d5975c883180c011cb7428c8d.
+
+Note the technical mod name of X-Decor-libre is the same as for X-Decor: `xdecor`.
+This is because this mod is meant to be a drop-in-replacement.
 
 ---
 
