@@ -17,7 +17,7 @@ No other changes (e.g. bugfixes, features, etc.) will be made in X-Decor-libre.
 
 This is the list of non-free files in the original X-Decor mod
 (as of commit 8b614b3513f2719d5975c883180c011cb7428c8d)
-that XDecor-libre replaces:
+that X-Decor-libre replaces:
 
 * `textures/xdecor_candle_hanging.png`
 * `textures/xdecor_radio_back.png`
