@@ -1,3 +1,14 @@
+## 
+## Y-Decor
+
+Y-Decor is X-Decor-libre fork with an emphasis on bugfixes.
+
+---
+
+Original X-Decor-libre readme is as follows:
+
+---
+
 ## X-Decor-libre [`xdecor`] ##
 
 This is a libre version (free software, free media) of the X-Decor mod for Minetest.
