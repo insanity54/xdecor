@@ -1,7 +1,6 @@
-## 
-## Y-Decor
+## X-Decor BOOST
 
-Y-Decor is X-Decor-libre fork with an emphasis on bugfixes.
+X-Decor BOOST is X-Decor-libre fork with an emphasis on bugfixes.
 
 ---
 
