@@ -248,10 +248,10 @@ minetest.register_craftitem("xdecor:bowl_soup", {
 })
 
 -- Recipes
-
 minetest.register_craft({
 	output = "xdecor:bowl 3",
 	recipe = {
+		{"", "", ""},
 		{"group:wood", "", "group:wood"},
 		{"", "group:wood", ""}
 	}
